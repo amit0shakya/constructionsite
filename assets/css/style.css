@@ -141,7 +141,6 @@
 
 .about .viewarea{
     margin:50px auto;
-
     background-color: blueviolet;
 }
 
@@ -150,12 +149,14 @@
     background-color: wheat;
     height:200px;       
     display: flex;
+    margin-bottom: 50px;
 }
 
 .about_box .about_icon{
     background-color: red;    
     width: 150px;
-    height:80px;
+    height:150px;
+    border-radius:150px ;
     font-size: 10px;
     color:white;
     text-align: center;
