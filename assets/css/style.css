@@ -140,7 +140,6 @@
 
 .about .viewarea{
     margin:50px auto;
-    padding-top: 40px;
     background-color: blueviolet;
 }
 
@@ -155,7 +154,8 @@
     background-color: red;    
     width: 150px;
     height:80px;
-    font-size: 30px;
+    font-size: 10px;
+    color:white;
     text-align: center;
 }
 
