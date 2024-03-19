@@ -124,7 +124,7 @@
 /*  BANNER   */
 .banner{
     height: 550px;
-    background-image: url("/assets/images/slide1920x753.jpg/slide-1-1920x753.jpg");
+    /*background-image: url("/assets/images/slide1920x753.jpg/slide-1-1920x753.jpg");*/
     font-size: 50px;
     color:white;
     background-color: var(--drak-gray);
