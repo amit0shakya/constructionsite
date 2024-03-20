@@ -145,11 +145,11 @@
 }
 
 .about_box{
-    width:30%;
+    width:33%;
     background-color: wheat;
     height:200px;       
     display: flex;
-    margin-bottom: 50px;
+    margin: 50px 20px 50px 20px;
 }
 
 .about_box .about_icon{
